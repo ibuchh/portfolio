@@ -1,1 +1,1 @@
-Check out the site [here](https://parkererickson.github.io) 
+Check out the site [here](https://parkererickson.github.io)
